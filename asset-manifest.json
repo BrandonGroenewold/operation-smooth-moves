@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/operation-smooth-moves/static/js/main.da6a0414.js",
+    "main.js": "/operation-smooth-moves/static/js/main.bec25b56.js",
     "index.html": "/operation-smooth-moves/index.html",
-    "main.da6a0414.js.map": "/operation-smooth-moves/static/js/main.da6a0414.js.map"
+    "main.bec25b56.js.map": "/operation-smooth-moves/static/js/main.bec25b56.js.map"
   },
   "entrypoints": [
-    "static/js/main.da6a0414.js"
+    "static/js/main.bec25b56.js"
   ]
 }
